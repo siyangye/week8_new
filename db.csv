@@ -1,5 +1,7 @@
-,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,game ID,player 1,player 2,winner
-0,0.0,0.0,0.0,0,silvia,Bot,silvia
-1,1.0,1.0,,1,silvia,Bot,silvia
-2,2.0,,,2,silvia,Bot,silvia
-3,,,,3,silvia,Bot,silvia
+,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,game ID,player 1,player 2,winner
+0,0.0,0.0,0.0,0.0,0.0,0,silvia,Bot,silvia
+1,1.0,1.0,1.0,1.0,,1,silvia,Bot,silvia
+2,2.0,2.0,2.0,,,2,silvia,Bot,silvia
+3,3.0,3.0,,,,3,silvia,Bot,silvia
+4,4.0,,,,,4,Wendy,Silvia,Wendy
+5,,,,,,5,Tom,silvia,Tom

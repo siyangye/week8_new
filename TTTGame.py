@@ -4,6 +4,9 @@
 
 from numpy import random
 import pandas
+import os
+import numpy as np
+import matplotlib.pyplot as plt 
 
 class DB():
     def __init__(self, CSV_file):
